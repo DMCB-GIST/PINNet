@@ -12,5 +12,5 @@ All gene expression data used in this paper are available and can be accessed he
 
 ## Get Started 
 1. Install [requirements.txt](./requirements.txt) to set up the envirnoment.
-2. All default arguments for demo are provided in the [dataPre.py](./dataPre.py).
-3. Run the [main.py](./main.py) to train and test the model.
+2. All default arguments for demo are provided in the [dataPre.py](./src/dataPre.py).
+3. Run the [main.py](./src/main.py) to train and test the model.
