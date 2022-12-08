@@ -1,4 +1,5 @@
+python==3.7.4
 matplotlib==3.3.1
 pandas==1.2.1
 pytorchtools==0.0.2
-torch==1.9.0
+torch==1.8.1
