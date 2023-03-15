@@ -1,6 +1,6 @@
 # PINNet: a deep neural network with pathway prior knowledge for Alzheimer's disease
 
-Supporting Information for the paper "[PINNet: a deep neural network with pathway prior knowledge for Alzheimer's disease]()"
+Supporting Information for the paper "[PINNet: a deep neural network with pathway prior knowledge for Alzheimer's disease](https://arxiv.org/abs/2211.15669)"
 
 PINNet is a deep neural network (DNN) model with pathway prior knowledge from either the Gene Ontology or Kyoto Encyclopedia of Genes and Genomes databases.
 
